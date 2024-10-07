@@ -10,3 +10,5 @@ Borracho en un bar no sé en dónde, bebé, ¿según quién?
 Ahora resulta que vivo el despecho
 Y te tengo guardada en el pecho, bebé, ¿según quién?
 ¿Según quién?
+
+By: Maluma god
