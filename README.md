@@ -10,14 +10,15 @@ Julián David Pérez Uribe, Yonatan Fernando Montañez Araque, Juan Sebastián M
 Nuestra finalidad es **predecir la gravedad del accidente** en base al tipo de vehiculo involucrado, periodo del accidente (diurno/nocturno), la comuna donde ocurrió y el mes o día del accidente.
 
 ## Dataset
-*Link al dataset: https://www.datos.gov.co/Transporte/Accidentes-de-Transito-ocurridos-en-el-Municipio-d/7cci-nqqb/about_data
+* **Link al dataset:** https://www.datos.gov.co/Transporte/Accidentes-de-Transito-ocurridos-en-el-Municipio-d/7cci-nqqb/about_data
 
 ## Modelos usados
+DecisionTreeRegressor, RandomForestRegressor, SVR, Redes Neuronales
 
 ## Enlaces
-* Notebook:
-* Video:
-* Repositorio: 
+* **Notebook:** 
+* **Video:**
+* **Repositorio:** 
 
 En el siguiente repo se almacenará la info respectiva al proyecto de IA1
 Conforme avance el tiempo, agregaremos descripción detallada de lo que queremos hacer en base al siguiente dataset:
