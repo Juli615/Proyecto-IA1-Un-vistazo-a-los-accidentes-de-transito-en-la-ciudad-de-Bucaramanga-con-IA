@@ -10,7 +10,7 @@ Julián David Pérez Uribe, Yonatan Fernando Montañez Araque, Juan Sebastián M
 Acá va la parla
 
 ## Dataset
-Parla
+*Link al dataset: https://www.datos.gov.co/Transporte/Accidentes-de-Transito-ocurridos-en-el-Municipio-d/7cci-nqqb/about_data
 
 ## Modelos usados
 
