@@ -7,7 +7,7 @@
 Julián David Pérez Uribe, Yonatan Fernando Montañez Araque, Juan Sebastián Mantilla Serrano
 
 ## Objetivo
-Acá va la parla
+Nuestra finalidad es **predecir la gravedad del accidente** en base al tipo de vehiculo involucrado, periodo del accidente (diurno/nocturno), la comuna donde ocurrió y el mes o día del accidente.
 
 ## Dataset
 *Link al dataset: https://www.datos.gov.co/Transporte/Accidentes-de-Transito-ocurridos-en-el-Municipio-d/7cci-nqqb/about_data
