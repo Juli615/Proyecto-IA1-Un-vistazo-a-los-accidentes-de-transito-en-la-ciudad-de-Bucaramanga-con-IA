@@ -18,7 +18,7 @@ DecisionTreeRegressor, RandomForestRegressor, SVR, Redes Neuronales
 ## Enlaces
 * **Notebook:** 
 * **Video:**
-* **Repositorio:** 
+* **Repositorio:** https://github.com/Juli615/Proyecto-IA1-Un-vistazo-a-los-accidentes-de-transito-en-la-ciudad-de-Bucaramanga-con-IA.git
 
 En el siguiente repo se almacenará la info respectiva al proyecto de IA1
 Conforme avance el tiempo, agregaremos descripción detallada de lo que queremos hacer en base al siguiente dataset:
