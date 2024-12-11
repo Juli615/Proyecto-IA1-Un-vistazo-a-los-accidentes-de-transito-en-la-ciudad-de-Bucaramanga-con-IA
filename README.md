@@ -13,7 +13,7 @@ Nuestra finalidad es **predecir la gravedad del accidente** en base al tipo de v
 * **Link al dataset:** https://www.datos.gov.co/Transporte/Accidentes-de-Transito-ocurridos-en-el-Municipio-d/7cci-nqqb/about_data
 
 ## Modelos usados
-DecisionTreeRegressor, RandomForestRegressor, SVR, Redes Neuronales
+DecisionTreeRegressor, RandomForestRegressor, SVR, Redes Neuronales, Regresión Lineal
 
 ## Enlaces
 * **Notebook:** https://colab.research.google.com/drive/18WTEPNNa5ogws7k4ynjHoTZwPpDPfbAj?usp=sharing
