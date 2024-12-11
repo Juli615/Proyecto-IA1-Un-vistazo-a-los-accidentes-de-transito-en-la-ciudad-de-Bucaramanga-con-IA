@@ -16,7 +16,7 @@ Nuestra finalidad es **predecir la gravedad del accidente** en base al tipo de v
 DecisionTreeRegressor, RandomForestRegressor, SVR, Redes Neuronales
 
 ## Enlaces
-* **Notebook:** 
+* **Notebook:** https://colab.research.google.com/drive/18WTEPNNa5ogws7k4ynjHoTZwPpDPfbAj?usp=sharing
 * **Video:**
 * **Repositorio:** https://github.com/Juli615/Proyecto-IA1-Un-vistazo-a-los-accidentes-de-transito-en-la-ciudad-de-Bucaramanga-con-IA.git
 
