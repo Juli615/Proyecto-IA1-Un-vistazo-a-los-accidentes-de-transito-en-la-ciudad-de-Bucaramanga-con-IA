@@ -19,4 +19,4 @@ DecisionTreeRegressor, RandomForestRegressor, SVR, Redes Neuronales Densas, Regr
 * **Notebook:** https://colab.research.google.com/drive/18WTEPNNa5ogws7k4ynjHoTZwPpDPfbAj?usp=sharing
 * **Video:** https://youtu.be/9GoCQkA3y2E
 * **Repositorio:** https://github.com/Juli615/Proyecto-IA1-Un-vistazo-a-los-accidentes-de-transito-en-la-ciudad-de-Bucaramanga-con-IA.git
-* * **Diapositivas:** En el mismo repositorio se encuentran
+* **Diapositivas:** En el mismo repositorio se encuentran
